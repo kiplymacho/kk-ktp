@@ -15,12 +15,10 @@ kiplymacho
 
 sistem yang dibutuhkan 
 
-Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Termux Nya Di Link Ini:
+Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Termux Nya Disini:👉
+[termux](https://sfile.mobi/1Pk3b69xugs7)
 
-https://sfile.mobi/1Pk3b69xugs7
-
-## KK & KTP Generator
-# Command Install For Termux
+# Ketikkan Di Termux
  ```
  pkg install php
  ```
