@@ -20,7 +20,7 @@ Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh D
 https://sfile.mobi/1Pk3b69xugs7
 
 ## KK & KTP Generator
-# Command Install For Termux / Linux (pc)
+# Command Install For Termux
 ```
 $ pkg install php
 $ pkg install git
