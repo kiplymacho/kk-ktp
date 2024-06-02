@@ -24,16 +24,14 @@ https://sfile.mobi/1Pk3b69xugs7
  ```
  pkg install php
  ```
+ ```
  pkg install git
  ```
 git clone https://github.com/kiplymacho/kk-ktp
 ```
-```
 cd kk-ktp
 ```
-```
 ls
-```
 ```
 php kkktp.php
 ```
