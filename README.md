@@ -5,18 +5,18 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=K+I+P+L+Y+M+A+C+H+O" />
 </p>
 <h2 align="center">
-Powered By:
   
-kiplymacho
+[![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
-<img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
+# Syarat & Bahan Untuk Menggunakan Script Ini
+- Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
+<h2 align="center">
 
-</p> 
+- Unduh Aplikasi Termux Nya Dibawah Ini
 
-sistem yang dibutuhkan 
+👇👇
 
-Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Termux Nya Disini:👉
-[termux](https://sfile.mobi/1Pk3b69xugs7)
+[![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
 
 # Ketikkan Di Termux
  ```
@@ -52,10 +52,12 @@ php kkktp.php
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
 <h2 align="center">
 
-- Bila masih bingung bisa di tanyakan 
- [Facebook](https://www.facebook.com/httpcustomkiplymacho/)
-- Contacts Person: [WhatsApp](https://wa.me/6285751032225)
+- Kritik & Saran
+- [![Facebook](https://img.shields.io/badge/Facebook-7K%2B-yellow.svg?style=flat)](https://www.facebook.com/httpcustomkiplymacho/)
+-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-400%2B-yellow.svg?style=flat)](https://wa.me/6285751032225)
+
+# _Subscribe_
+- Klik Disini 👉[![YouTube](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@km7ujuh)
 
 # _Follow_
-- Klik Disini 👉[YouTube](https://www.youtube.com/@km7ujuh)
-- Klik Disini👉[instagram](https://instagram.com/kiplymacho)
+- Klik Disini👉[![instagram](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://instagram.com/kiplymacho)
