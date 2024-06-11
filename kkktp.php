@@ -17,9 +17,7 @@ $kk = $data3[1];
 //print(json_encode(array('src'=>'Hasil', 'result'=>$data4)));
 echo "\e[36m          Author : \e[93mkiplymacho\n\n";
 echo "\e[92mRegion  :\e[92m Banjarmasin Pemurus Dalam
-echo "\e[92mYoutube :"\e[97mkm7ujuh\e[92m\n\n";
-echo "\e[92mGithub  :"\e[97mkiplymacho\e[92m\n\n";
-echo "\e[92mTiktok  :"\e[97mkiplymacho\e[92m\n\n";
+echo "\e[92mYoutube :\e[92m km7ujuh
 
 echo "[*] No. KTP : ".$ktp."\n";
 echo "[*] No. KK  : ".$kk."\n\n";
