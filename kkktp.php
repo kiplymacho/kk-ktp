@@ -15,7 +15,7 @@ $ktp = $data3[0];
 $kk = $data3[1];
 //$data4 = array('KTP' => $ktp, 'NO_KK' => $kk);
 //print(json_encode(array('src'=>'Hasil', 'result'=>$data4)));
-echo "\e[36m          Author : \e[93m kiplymacho\n\n";
+echo "\e[36m          Author : \e[93mkiplymacho\n\n";
 echo "\e[92mBadiam :\e[92m Banjarmasin Pemurus Dalam || \e[91mIndo\e[97mAmangNino\e[92m\n\n";
 echo "[*] No. KTP : ".$ktp."\n";
 echo "[*] No. KK  : ".$kk."\n\n";
